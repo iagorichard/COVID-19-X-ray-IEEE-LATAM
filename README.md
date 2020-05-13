@@ -26,5 +26,9 @@ Thanks to Tawsifur Rahman et al. [1], which have developed the dataset. The data
 * With the jupyter notebook open the `main.ipynb`
 * The code has instructions of how to execute in its comments
 
+## The paper results
+The paper results can be found at https://docs.google.com/spreadsheets/d/1xBRx6-rHy__1FjaBbd1KzKGlwoyckLjrB7SMz_yMzSA/edit#gid=0
+These results are corresponding to each step of the cross validation experiments (average and std are also provided). 
+
 ## References
 [1] COVID-19 RADIOGRAPHY DATABASE (Winner of the COVID-19 Dataset Award). Kaggle. https://www.kaggle.com/tawsifurrahman/covid19-radiography-database
